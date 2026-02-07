@@ -38,7 +38,7 @@ The final dashboard provides actionable insights into how fulfillment lags and d
 
 ---
 
-### 📁 Project 3 –[Flipkart- Data Analysis]
+### 📁 Project 3 –[Flipkart- Customer Service Analysis]
 **Goal:**  
 This project involves a deep-dive analysis of customer service operations to diagnose the root causes of a high 59% Negative Sentiment Rate, moving beyond surface-level metrics like call duration to find specific operational failures.
 
@@ -48,7 +48,7 @@ Excel
 **Key Outcome:**  
 The identification of three critical, localized failure points—Meghalaya Email (69%), Tripura Call-Center (63%), and Andaman Chatbot (61%)—enabling a targeted intervention strategy to improve customer retention.
 
-### 📁 Project 4 –[Swiggy-Analysis]
+### 📁 Project 4 –[Swiggy- Campaign Efficiency & Growth Strategy Data Analysis]
 **Goal:**  
 To reverse the Paid channel’s conversion drag, we will pivot Maharashtra’s strategy by replacing underperforming seasonal sales with the high-converting Product Launch campaign (82%), specifically targeting mobile users on weekends via the homepage. By scaling these optimizations alongside gains in Karnataka and Telangana, we are effectively reallocating budget from low-yield discounts to high-momentum segments.
 
