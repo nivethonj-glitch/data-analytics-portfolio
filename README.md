@@ -22,6 +22,8 @@ This project utilizes behavioral analytics to diagnose the impact of monetizatio
 Python , Tableau 
 
 **Tableau Dashboard Link:** https://public.tableau.com/shared/JRQYS5ZX9?:display_count=n&:origin=viz_share_link
+**Python Code:** Instagram_Retention_Analysis.ipynb
+**Final Report:** Instagram Retention Analysis pdf3.pdf
 
 **Key Outcome:**  
 Our analysis revealed that Efficient Engagers face a critical churn risk of 0.88 due to an ad load nearly 3x the platform average, highlighting a need for quality-weighted monetization.
@@ -36,6 +38,8 @@ This project is an end-to-end e-commerce audit that uses Python to process compl
 Python , Tableau
 
 **Tableau Dashboard Link:** https://public.tableau.com/views/EDAOnMainData/IdentifyingMarginReturnCulprits?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Python Code** Amazon_Data_Analysis.ipynb  
+**Final Report** amazon fulfillment efficiency-compressed.pdf
 
 **Key Outcome:**  
 The final dashboard provides actionable insights into how fulfillment lags and demographic spend patterns directly impact realized revenue.
