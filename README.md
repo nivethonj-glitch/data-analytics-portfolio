@@ -21,6 +21,8 @@ This project utilizes behavioral analytics to diagnose the impact of monetizatio
 **Tools:**  
 Python , Tableau 
 
+**Tableau Dashboard Link:** https://public.tableau.com/shared/JRQYS5ZX9?:display_count=n&:origin=viz_share_link
+
 **Key Outcome:**  
 Our analysis revealed that Efficient Engagers face a critical churn risk of 0.88 due to an ad load nearly 3x the platform average, highlighting a need for quality-weighted monetization.
 
@@ -32,6 +34,8 @@ This project is an end-to-end e-commerce audit that uses Python to process compl
 
 **Tools:**  
 Python , Tableau
+
+**Tableau Dashboard Link:** https://public.tableau.com/views/EDAOnMainData/IdentifyingMarginReturnCulprits?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Key Outcome:**  
 The final dashboard provides actionable insights into how fulfillment lags and demographic spend patterns directly impact realized revenue.
@@ -54,6 +58,8 @@ To reverse the Paid channel’s conversion drag, we will pivot Maharashtra’s s
 
 **Tools:**  
 Tableau
+
+**Tableau Dashboard Link:** https://public.tableau.com/views/Swiggyanalysis_17640602738360/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Key Outcome:**  
 This strategic shift is projected to lift Paid campaign conversion from 43.8% to 48%, eliminating the current 2 percentage point drag on the business's overall conversion rate.
