@@ -22,7 +22,9 @@ This project utilizes behavioral analytics to diagnose the impact of monetizatio
 Python , Tableau 
 
 **Tableau Dashboard Link:** https://public.tableau.com/shared/JRQYS5ZX9?:display_count=n&:origin=viz_share_link
+
 **Python Code:** Instagram_Retention_Analysis.ipynb
+
 **Final Report:** Instagram Retention Analysis pdf3.pdf
 
 **Key Outcome:**  
@@ -38,7 +40,9 @@ This project is an end-to-end e-commerce audit that uses Python to process compl
 Python , Tableau
 
 **Tableau Dashboard Link:** https://public.tableau.com/views/EDAOnMainData/IdentifyingMarginReturnCulprits?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 **Python Code** Amazon_Data_Analysis.ipynb  
+
 **Final Report** amazon fulfillment efficiency-compressed.pdf
 
 **Key Outcome:**  
@@ -52,6 +56,8 @@ This project involves a deep-dive analysis of customer service operations to dia
 
 **Tools:**  
 Excel
+
+**Excel Workbook:** Flipkart-Customer Service Analysis.xlsx
 
 **Key Outcome:**  
 The identification of three critical, localized failure points—Meghalaya Email (69%), Tripura Call-Center (63%), and Andaman Chatbot (61%)—enabling a targeted intervention strategy to improve customer retention.
