@@ -23,9 +23,9 @@ Python , Tableau
 
 **Tableau Dashboard Link:** https://public.tableau.com/shared/JRQYS5ZX9?:display_count=n&:origin=viz_share_link
 
-**Python Code:** Instagram_Retention_Analysis.ipynb
+**Python Code:**  https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Instagram_Retention_Analysis.ipynb (Instagram_Retention_Analysis.ipynb)
 
-**Final Report:** Instagram Retention Analysis pdf3.pdf
+**Final Report:**    https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Instagram%20Retention%20Analysis%20pdf3.pdf (Instagram Retention Analysis pdf3.pdf)
 
 **Key Outcome:**  
 Our analysis revealed that Efficient Engagers face a critical churn risk of 0.88 due to an ad load nearly 3x the platform average, highlighting a need for quality-weighted monetization.
@@ -41,9 +41,9 @@ Python , Tableau
 
 **Tableau Dashboard Link:** https://public.tableau.com/views/EDAOnMainData/IdentifyingMarginReturnCulprits?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-**Python Code** Amazon_Data_Analysis.ipynb  
+**Python Code:**  https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Amazon_Data_Analysis.ipynb  (Amazon_Data_Analysis.ipynb)
 
-**Final Report** amazon fulfillment efficiency-compressed.pdf
+**Final Report:** https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/amazon%20fulfillment%20efficiency-compressed.pdf (amazon fulfillment efficiency-compressed.pdf)
 
 **Key Outcome:**  
 The final dashboard provides actionable insights into how fulfillment lags and demographic spend patterns directly impact realized revenue.
@@ -57,7 +57,7 @@ This project involves a deep-dive analysis of customer service operations to dia
 **Tools:**  
 Excel
 
-**Excel Workbook:** Flipkart-Customer Service Analysis.xlsx
+**Excel Workbook:** https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Flipkart-Customer%20Service%20Analysis.xlsx (Flipkart-Customer Service Analysis.xlsx)
 
 **Key Outcome:**  
 The identification of three critical, localized failure points—Meghalaya Email (69%), Tripura Call-Center (63%), and Andaman Chatbot (61%)—enabling a targeted intervention strategy to improve customer retention.
