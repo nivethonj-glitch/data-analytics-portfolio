@@ -41,7 +41,7 @@ Python , Tableau
 
 **Tableau Dashboard Link:** https://public.tableau.com/views/EDAOnMainData/IdentifyingMarginReturnCulprits?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-**Python Code:**  https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Amazon_Data_Analysis.ipynb  (Amazon_Data_Analysis.ipynb)
+**Python Code:**  https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Amazon_Analysis.ipynb  (Amazon Analysis.ipynb)
 
 **Final Report:** https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/amazon%20fulfillment%20efficiency-compressed.pdf (amazon fulfillment efficiency-compressed.pdf)
 
