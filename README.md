@@ -21,7 +21,7 @@ This project utilizes behavioral analytics to diagnose the impact of monetizatio
 **Tools:**  
 Python , Tableau 
 
-**Tableau Dashboard Link:** https://public.tableau.com/shared/JRQYS5ZX9?:display_count=n&:origin=viz_share_link
+**Tableau Dashboard Link:** (https://public.tableau.com/shared/3XMC732WW?:display_count=n&:origin=viz_share_link)
 
 **Python Code:**  https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Instagram_Retention_Analysis.ipynb (Instagram_Retention_Analysis.ipynb)
 
