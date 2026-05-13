@@ -85,6 +85,7 @@ SQL
 
 **Key Outcome:**  
 Transformed a dataset into an usable form . Observation was the persistence of NULLS which was kept to maintain the integrity of the database.
+
 Dataset before cleaning: https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Nashville_housing_data.xlsx
 
 Dataset after cleaning : https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Nashville_Cleaned_Data.csv
