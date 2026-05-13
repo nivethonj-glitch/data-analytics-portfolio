@@ -77,11 +77,12 @@ This strategic shift is projected to lift Paid campaign conversion from 43.8% to
 ### 📁 Project 3 –[SQL Data Cleaning- Nashville House Data]
 **Goal:** 
 The goal of this project was to transform raw Nashville housing data into a clean, standardized format using PostgreSQL to ensure accuracy for future analysis. I successfully automated the recovery of missing property addresses through self-joins and resolved data type inconsistencies across the dataset.
-Dataset before cleaning:
+CODE USED: https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Nashville_Data_Cleaning_Final.sql
 
 **Tools:**  
 SQL
 
 **Key Outcome:**  
 Transformed a dataset into an usable form . Observation was the persistence of NULLS which was kept to maintain the integrity of the database.
-Dataset after cleaning:
+Dataset before cleaning: https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Nashville_housing_data.xlsx
+Dataset after cleaning : https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Nashville_Cleaned_Data.csv
