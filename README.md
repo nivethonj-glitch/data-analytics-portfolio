@@ -74,4 +74,14 @@ Tableau
 **Key Outcome:**  
 This strategic shift is projected to lift Paid campaign conversion from 43.8% to 48%, eliminating the current 2 percentage point drag on the business's overall conversion rate.
 
+### 📁 Project 3 –[SQL Data Cleaning- Nashville House Data]
+**Goal:** 
+The goal of this project was to transform raw Nashville housing data into a clean, standardized format using PostgreSQL to ensure accuracy for future analysis. I successfully automated the recovery of missing property addresses through self-joins and resolved data type inconsistencies across the dataset.
+Dataset before cleaning:
 
+**Tools:**  
+SQL
+
+**Key Outcome:**  
+Transformed a dataset into an usable form . Observation was the persistence of NULLS which was kept to maintain the integrity of the database.
+Dataset after cleaning:
