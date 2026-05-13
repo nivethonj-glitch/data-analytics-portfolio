@@ -50,30 +50,6 @@ The final dashboard provides actionable insights into how fulfillment lags and d
 
 ---
 
-### 📁 Project 3 –[Flipkart- Customer Service Analysis]
-**Goal:**  
-This project involves a deep-dive analysis of customer service operations to diagnose the root causes of a high 59% Negative Sentiment Rate, moving beyond surface-level metrics like call duration to find specific operational failures.
-
-**Tools:**  
-Excel
-
-**Excel Workbook:** https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Flipkart-Customer%20Service%20Analysis.xlsx (Flipkart-Customer Service Analysis.xlsx)
-
-**Key Outcome:**  
-The identification of three critical, localized failure points—Meghalaya Email (69%), Tripura Call-Center (63%), and Andaman Chatbot (61%)—enabling a targeted intervention strategy to improve customer retention.
-
-### 📁 Project 4 –[Swiggy- Campaign Efficiency & Growth Strategy Data Analysis]
-**Goal:**  
-To reverse the Paid channel’s conversion drag, we will pivot Maharashtra’s strategy by replacing underperforming seasonal sales with the high-converting Product Launch campaign (82%), specifically targeting mobile users on weekends via the homepage. By scaling these optimizations alongside gains in Karnataka and Telangana, we are effectively reallocating budget from low-yield discounts to high-momentum segments.
-
-**Tools:**  
-Tableau
-
-**Tableau Dashboard Link:** https://public.tableau.com/views/Swiggyanalysis_17640602738360/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-**Key Outcome:**  
-This strategic shift is projected to lift Paid campaign conversion from 43.8% to 48%, eliminating the current 2 percentage point drag on the business's overall conversion rate.
-
 ### 📁 Project 3 –[SQL Data Cleaning- Nashville House Data]
 **Goal:** 
 The goal of this project was to transform raw Nashville housing data into a clean, standardized format using PostgreSQL to ensure accuracy for future analysis. I successfully automated the recovery of missing property addresses through self-joins and resolved data type inconsistencies across the dataset.
@@ -89,3 +65,18 @@ Transformed a dataset into an usable form . Observation was the persistence of N
 Dataset before cleaning: https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Nashville_housing_data.xlsx
 
 Dataset after cleaning : https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Nashville_Cleaned_Data.csv
+
+
+
+### 📁 Project 4 –[Swiggy- Campaign Efficiency & Growth Strategy Data Analysis]
+**Goal:**  
+To reverse the Paid channel’s conversion drag, we will pivot Maharashtra’s strategy by replacing underperforming seasonal sales with the high-converting Product Launch campaign (82%), specifically targeting mobile users on weekends via the homepage. By scaling these optimizations alongside gains in Karnataka and Telangana, we are effectively reallocating budget from low-yield discounts to high-momentum segments.
+
+**Tools:**  
+Tableau
+
+**Tableau Dashboard Link:** https://public.tableau.com/views/Swiggyanalysis_17640602738360/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Key Outcome:**  
+This strategic shift is projected to lift Paid campaign conversion from 43.8% to 48%, eliminating the current 2 percentage point drag on the business's overall conversion rate.
+
