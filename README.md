@@ -67,5 +67,23 @@ Raw Dataset (Excel): https://github.com/nivethonj-glitch/data-analytics-portfoli
 Cleaned Dataset (CSV) : https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Nashville_Cleaned_Data.csv
 
 
+### 📁 Project 2 – [Customer Behaviour Analysis]
+**Goal:**  
+This project is an end-to-end e-commerce audit that uses Python to process complex datasets and PowerBI to visualize financial performance. It identifies "Category Culprits" and high-risk SKUs by analyzing the gap between gross and net margins alongside product return rates. 
+
+**Tools:**  
+Python , SQL , PowerBI
+
+**Tableau Dashboard Link:** https://public.tableau.com/views/EDAOnMainData/IdentifyingMarginReturnCulprits?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Python Code:**  https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Amazon_Analysis%20(1).ipynb  (Amazon Analysis.ipynb)
+
+**Final Report:** https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/amazon%20fulfillment%20efficiency-compressed.pdf (amazon fulfillment efficiency-compressed.pdf)
+
+**Key Outcome:**  
+The final dashboard provides actionable insights into how fulfillment lags and demographic spend patterns directly impact realized revenue.
+
+
+
 
 
