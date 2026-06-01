@@ -8,7 +8,8 @@ This repository contains my data analytics projects focused on data cleaning, an
 - Python
 - SQL
 - Excel
-- Tableau 
+- Tableau
+- Power BI
 
 ---
 
